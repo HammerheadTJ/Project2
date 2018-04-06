@@ -1,0 +1,49 @@
+.background    { background-image: url("https://i.pinimg.com/736x/5e/4a/78/5e4a7844c1a0404097b3246197ec0b58--texture-walls-d-texture.jpg");
+                 background-repeat: repeat;
+                 background-size: 200px 200px;
+                 border-spacing: 0;   }
+.background td { padding: 0;          }
+.lava          { background-image: url("https://i.pinimg.com/originals/59/8c/26/598c2660c1d1ffe7731d29e73c9168f3.gif");
+                 background-size: 15px 15px;}
+.wall          { background: black;   }
+.floater       {background: ;}
+.rainbow        {background-image: url("https://media.giphy.com/media/hSgUxW0ZNRmRa/giphy.gif");
+                background-size: 20px 20px;}
+.water         {background-image: url("https://static1.squarespace.com/static/53b38ae9e4b025aec04e7e71/t/5a5a8751f9619a6735bb49d3/1515882324966/");
+                background-size: 20px 20px;}
+.acid          {background-image: url("https://media.giphy.com/media/7Tu9OXeJlFrd6/giphy.gif");
+                background-size: 20px 20px;}
+.portal        {background-image: url("http://projectportal.weebly.com/files/theme/portal_blue.png");
+                background-size: 20px 20px;}
+.portel        {background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/3b/ColorRotateHr.gif");
+                                background-size: 20px 20px;}
+
+.berry         {background-image: url("https://vignette.wikia.nocookie.net/pokemongo/images/d/de/Unconfirmed_Item_Wepear_Berry.png/revision/latest?cb=20160810182943");
+               background-size: 15px 12px;}
+.star          {background-image: url("https://78.media.tumblr.com/df41e7b739fafaf5698ea3296fbac026/tumblr_oijn5b0c5N1txeruoo1_500.gif");
+                background-size: 25px 25px;}
+
+
+
+.actor  { position: absolute;  }
+.coin   { background-image: url("https://vignette.wikia.nocookie.net/pokemongo/images/8/89/PokeCoin.png/revision/latest?cb=20160725180232");
+          border-radius: 50%;
+          background-size: 15px 20px;}
+.moon   {background-image: url("https://vignette.wikia.nocookie.net/pokemongo/images/f/f7/Unconfirmed_Item_Nanab_Berry.png/revision/latest?cb=20160810182933");
+         background-size: 15px 11px;}
+.player { background-image: url("http://rs795.pbsrc.com/albums/yy232/PixKaruumi/Pokemon%20Pixels/Pokemon%2004/Pikachu_Icon__free__by_Aminako.gif~c200");
+          background-size: 18px 30px;}
+
+.game {
+  overflow: hidden;
+  max-width: 600px;
+  max-height: 450px;
+  position: relative;
+}
+
+.lost .player {
+  background: ;
+}
+.won .player {
+  box-shadow: -4px -7px 8px yellow, 4px -7px 8px yellow;
+}
